@@ -1,0 +1,27 @@
+h1 {
+    color: navy;
+    font-family: cursive
+}
+
+
+
+.Name {
+    color: teal;
+    font-family: cursive
+}
+
+#Author {
+    font-weight: bold
+}
+
+.header {
+    background-image: url("https://i.pinimg.com/originals/e0/9c/7a/e09c7abb0951fe43339cb27d6ea4fa52.jpg") !important;
+    
+}
+
+body {
+    width: 974px; margin: 0 auto;
+    padding: 2%;
+    background-color:rgb(193, 132, 211); 
+}
+
